@@ -1,0 +1,5 @@
+{
+  "name": "AI Comic Creator",
+  "description": "A web application that allows users to generate comic book panels from a story script using AI models for text and image generation. Supports Gemini and Pollinations APIs, character references, and various style customizations.",
+  "requestFramePermissions": []
+}
